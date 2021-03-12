@@ -9,6 +9,10 @@ Temperature and CO<sub>2</sub> level digital indicator.
 * 1-Wire DS18x20 temperature sensor
 * 2x16 LCD display with HD44780 driver
 
+## Schematic
+
+![Schematic of the prototype](https://raw.githubusercontent.com/malipek/CzujnikCO2/main/media/Schematic_czujnikCO2_2021-03-12.png)
+
 ## Project concept
 Due to COVID-19 and home-office activities the quality of indoor air becomes an issue. Too high level of CO<sub>2</sub> [may cause cognitive-impairment](https://www.news-medical.net/news/20200421/Atmospheric-CO2-levels-can-cause-cognitive-impairment.aspx). 
 
